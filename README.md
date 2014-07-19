@@ -11,7 +11,7 @@ Note: cloverALC, see https://github.com/toleda/audio_cloverALC
 Requirements
 1. Native S/L/E/AppleHDA.kext (restore native AppleHDA.kext with Combo Update)
 2. Supported OS X versions:
-2a. alc888-94 - Mavericks 10.9.3/AppleHDA.kext_v2.6.2
+2a. alc888-94 - Mavericks 10.9.4/AppleHDA.kext_v2.6.2
 2b. alc888-93 - Mavericks 10.9.3/AppleHDA.kext_v2.6.1
 2c. alc888-92 - Mavericks 10.9.2/AppleHDA.kext_v2.6.0
 2d. alc888-91 - Mavericks 10.9.1/AppleHDA.kext_v2.5.3
